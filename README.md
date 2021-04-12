@@ -10,7 +10,7 @@ kaggle: 0.97966*3000 = 2939\
 val: 8866\
 total: 8866+2939 = 11805\
 epoch runtime: 292.225s\
-param count: 
+param count: 11175370
 
 resnet34\
 'lr': 5.394480774175557e-05, 'optimizer_name': 'RMSprop'\
@@ -18,7 +18,7 @@ kaggle: \
 val: \
 total:\
 epoch runtime:\
-param count: 
+param count: 21283530
 
 Not BESTPARAM resnet34 with rotation\
 kaggle: 0.98566*3000 = 2957\
