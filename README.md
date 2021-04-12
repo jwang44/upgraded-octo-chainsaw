@@ -15,7 +15,7 @@ param count: 11175370
 resnet34\
 'lr': 5.394480774175557e-05, 'optimizer_name': 'RMSprop'\
 kaggle: \
-val: \
+val: 8825/9000 (98.06%)\
 total:\
 epoch runtime:\
 param count: 21283530
