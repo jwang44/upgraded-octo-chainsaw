@@ -1,7 +1,7 @@
 # upgraded-octo-chainsaw
 tutor\
 'lr': 0.008681535231241367, 'optimizer_name': 'RMSprop'\
-epoch runtime: 
+epoch runtime: 10.729s
 
 resnet18\
 'lr': 0.00011544127431749307, 'optimizer_name': 'Adam'\
