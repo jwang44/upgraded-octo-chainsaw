@@ -23,9 +23,9 @@ param count: 21283530
 ## resnet18+rotate
 'lr': 0.00011544127431749307, 'optimizer_name': 'Adam'\
 kaggle: \
-val: \
+val: 8855\
 total: \
-epoch runtime: \
+epoch runtime: 288.994\
 param count: 11175370
 
 Not BESTPARAM resnet34 with rotation\
