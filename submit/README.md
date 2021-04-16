@@ -8,4 +8,4 @@ Depending on the best validation accuracy found in the training stage, the numbe
 
 `DataVisualization.ipynb` plots data distribution and the validation accuracy change with epochs.
 
-`parameter_select.ipynb` ...
+`parameter_select.ipynb` selects the optimal hyperparameters for each model. 
