@@ -6,6 +6,6 @@ To reproduce the results, just specify the hyperparameters and run the cells in 
 In the model part, pick one of the model classes (e.g., ResNet18) and instantiate it as `model`. 
 Depending on the best validation accuracy found in the training stage, the number of epoches needs to be changed accordingly when training on all available data. 
 
-`visualization.ipynb` ...
+`DataVisualization.ipynb` plots data distribution and the validation accuracy change with epochs.
 
 `parameter_select.ipynb` ...
